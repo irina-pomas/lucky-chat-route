@@ -1,0 +1,9 @@
+{
+    "host": "im.nekto.me",
+    "version": "NektoMe195",
+    "headers": {
+        "App-Android-Code": "195",
+        "App-Android-Version": "4.0.8",
+        "NektoMe-Chat-Version": "1"
+    }
+}
